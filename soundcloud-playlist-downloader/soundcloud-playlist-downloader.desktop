@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=SoundCloud Playlist Downloader
+Comment=Download SoundCloud playlists as tagged MP3 files
+Exec=AppRun
+Icon=soundcloud-playlist-downloader
+Type=Application
+Categories=AudioVideo;
+Terminal=false
+StartupNotify=true
