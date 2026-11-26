@@ -33,3 +33,8 @@ Install `appimagetool`, then run:
 This creates `SoundCloud-Playlist-Downloader-x86_64.AppImage` in this directory. Launch it from your file manager or terminal. The AppImage includes the app and icon; Python 3, `yt-dlp`, FFmpeg, GTK 3, and Python GObject must be installed on the system.
 
 Close the window to quit. If a download is running, closing first cancels it; close again after cancellation finishes. Downloads require access to the tracks and are subject to SoundCloud's terms and applicable copyright law.
+
+## Contributors
+
+- **xay-rgp** — Repository author & maintainer
+- **Antigravity (Google DeepMind)** — Contributor
